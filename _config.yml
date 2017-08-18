@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://blog.oshell.site
 date_format: "ordinal"
 title: 黑匣子
 subtitle: "一个世纪以来 , 我都秘密的活着 . "
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: StefanLei/stefanlei.github.io
 
 # ---------------- #
 #      Comments    #
@@ -89,7 +89,7 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: stefan
 # https://gentie.163.com
 netease_gentie:
     productKey: 560ed243b708465d82d5a0a5f3b83da1
