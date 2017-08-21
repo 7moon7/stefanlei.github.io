@@ -89,7 +89,7 @@ comments_provider: disqus
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: stefan
+    username: blog-ld887vhn5b
 # https://gentie.163.com
 netease_gentie:
     productKey: 560ed243b708465d82d5a0a5f3b83da1
